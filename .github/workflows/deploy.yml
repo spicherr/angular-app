@@ -3,7 +3,7 @@ name: Build and Deploy Angular to GitHub Pages
 on:
   push:
     branches:
-      - main  # oder master, je nach deinem Haupt-Branch
+      - master  # oder main, je nach deinem Haupt-Branch
 
 permissions:
   contents: read
